@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Dichotomy</title>
-    <link>https://d1chotomy.github.io/posts/</link>
+    <link>https://dichotomy.cc/posts/</link>
     <description>Recent content in Posts on Dichotomy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright Zeno of Elea, 430 B.C.</copyright>
     <lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://d1chotomy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dichotomy.cc/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>芝诺与两分法</title>
-      <link>https://d1chotomy.github.io/posts/2020-01-07-zenos-paradox/</link>
+      <link>https://dichotomy.cc/posts/2020-01-07-zenos-paradox/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://d1chotomy.github.io/posts/2020-01-07-zenos-paradox/</guid>
+      <guid>https://dichotomy.cc/posts/2020-01-07-zenos-paradox/</guid>
       <description>寻找真实的龟、杀手阿基里斯、不动的飞矢。
   古希腊有埃利亚之哲学家芝诺。
 有天芝诺听说远方存在“真实”。当时他很想知道何谓“真实”，芝诺认为控制“真实”的流向自己就能掌握全世界。
