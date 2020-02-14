@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright Zeno of Elea, 430 B.C.</copyright>
-    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dichotomy.cc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tbd</title>
+      <link>https://dichotomy.cc/posts/2020-02-13-prerogative-descriptive/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dichotomy.cc/posts/2020-02-13-prerogative-descriptive/</guid>
+      <description>今天在滑 Telegram 看到这样一句：
+ 一般而言，只存在两种语言。一种是实证，是描述式的；一种是规范，是命令式的。以此为思路，来观察个人或某些群体的表达，多多少少能洞见他对世界的根本态度。
+ 于是这里一边坐着不是很稳的火车一边表达一下不是很稳的看法。
+这句话准确，而不完整。
+ “连续性”上存在的不完整 用“只”来将所有的语言分裂成互斥的两类本身是不完全的。就像这个无聊的 blog 的标题说的，我认为世界上的很多东西都是不能单纯靠一个完全两分的角度来观察。这里先定义一下“两分”：
+ Dichotomy：两分法，名次，指将一个实体切分成两个互斥的实体的方法。
+ 比如这里所说的只有“实证”和“命令”两种语言上表达的极端，举个例子：
+ A：“自然界的细菌在人类的表皮上容易与分泌的汗液混合而产生气味啊。”
+ 以上这句话是描述式的，易于证明的，但是不促使人行动。下面我们再看：
+ B：“你现在去洗澡。”
+ 以上是命令式的，规范的。这里不仅赋予了说话者 judge 他人的权力，并强烈的表达了说话者想让听话者去洗澡的意愿。当然听了的人会很不爽。
+于是我们不难发现还有折衷的表达，比如先做一个不洗澡引起臭味的推断，然后结论是促使听话者去洗澡。
+ C：“你再不洗澡就臭了，闻了很难受啊，快去洗。”
+ 我们可以因此把世界所有的语言量化成一个 set，然后将我们定义语言的一个 feature，这个 feature 描述某个语句是偏向描述(discriptive)，还是偏向命令(prerogative)。不难发现这个 feature 是连续的，可比的。我们把这一个 feature 叫做 $\phi(x)$。
+虽然我们还是没有办法把这个量数字化，但是我们可以定义当 $\phi(x)$ 越大，一个句子更偏向于命令态。则我们可以对三者做出比较：
+$$\phi(B) &amp;gt; \phi(C) &amp;gt; \phi(A)$$
+因此“命令量”是连续的且可比的 feature。
+ “忽略其他维度”所造成的不完整 上面所说的这个描述“命令量”的 feature 作为一个单独的维度而存在。然而这里我认为语言中还可以定义各种其他的不同的 feature 而形成不同的维度。一个维度在定义上必须和所有的其他维度垂直 (orthogonal)，意思是他们之间是独立的，但是不是互斥的。
+ 这里注意一下如果我们说两个东西是独立(independent)的时候他们必然不是互斥(mutually exclusive)，因为互斥的 AB 两 set 如果你存在于 A，你必定不存在于 B，所以你在 B 的存在是依赖于 A 的，并不是独立的。  比如我们定义另外一个维度来描述语句中的“感情量”，</description>
+    </item>
     
     <item>
       <title></title>
@@ -25,10 +52,10 @@
     
     <item>
       <title>芝诺与两分法</title>
-      <link>https://dichotomy.cc/posts/2020-01-07-zenos-paradox/</link>
+      <link>https://dichotomy.cc/posts/2020-02-07-zenos-paradox/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://dichotomy.cc/posts/2020-01-07-zenos-paradox/</guid>
+      <guid>https://dichotomy.cc/posts/2020-02-07-zenos-paradox/</guid>
       <description>寻找真实的龟、杀手阿基里斯、不动的飞矢。
   古希腊有埃利亚之哲学家芝诺。
 有天芝诺听说远方存在“真实”。当时他很想知道何谓“真实”，芝诺认为控制“真实”的流向自己就能掌握全世界。

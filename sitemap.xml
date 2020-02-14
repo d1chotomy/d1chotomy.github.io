@@ -3,22 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dichotomy.cc/</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dichotomy.cc/posts/</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dichotomy.cc/posts/2020-02-13-prerogative-descriptive/</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dichotomy.cc/contact/</loc>
     <lastmod>2020-02-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dichotomy.cc/</loc>
-    <lastmod>2020-02-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dichotomy.cc/posts/</loc>
-    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dichotomy.cc/posts/2020-01-07-zenos-paradox/</loc>
+    <loc>https://dichotomy.cc/posts/2020-02-07-zenos-paradox/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
   
